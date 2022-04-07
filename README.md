@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @mindOfCaspian
-- 👀 I’m interested in frontend developement
-- 🌱 I’m currently learning advanced angular concepts
+- Bachelors degree of computer and information science (University of Ljubljana - FRI, Slovenia)
 
-<!---
-mindOfCaspian/mindOfCaspian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Currently taking a Business Informatics master's course at University of Ljubljana, School of Economics and Business.
